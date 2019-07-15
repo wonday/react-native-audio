@@ -42,7 +42,7 @@ var AudioRecorder = {
       MeasurementMode: false,
       AudioEncodingBitRate: 32000,
       IncludeBase64: false,
-      ProgressUpdateInterval: 1000,
+      ProgressUpdateInterval: 300,
       AudioSource: 0
     };
 
